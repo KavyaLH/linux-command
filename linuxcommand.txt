@@ -1,0 +1,120 @@
+  502  emv
+  503  cd d
+  504  cd /e
+  505  cd ..
+  506  cd ..
+  507  cd d
+  508  cd kavya
+  509  ls
+  510  ls -l
+  511  ls -a
+  512   ls .
+  513  ls ..
+  514   ls ~
+  515  ls 
+  516  cd/
+  517  cd /
+  518  ls
+  519  ls /d
+  520  ls /c
+  521  ls /c/dell
+  522  ls /c/users
+  523  ls /c/Users
+  524  emv
+  525  ls /c/
+  526  emv
+  527  clear
+  528  cd /e/
+  529  cd /d/
+  530  touch kl.txt
+  531  ls
+  532  kl.mp3
+  533  touch kl.mp3
+  534  ls
+  535  cat kl.txt
+  536  nano kl.txt
+  537  cat kl.txt
+  538  touch abc.txt
+  539  cat abc.txt
+  540  cp kl.txt abc.txt
+  541  cat kl.txt
+  542  cat abc.txt
+  543  mkdir -p kavya/wlkn
+  544  ls
+  545  cd /d/kavya
+  546  ls
+  547  cat kl.txt
+  548  cd..
+  549  cd ..
+  550  ls
+  551  cat kl.txt
+  552  mv kl.txt xyz.txt
+  553  ls
+  554  cat kl.txt
+  555  cat xyz.txt
+  556  cd ..
+  557  cd /e/kavya
+  558  cd /d/kavya
+  559  cd /wlkn
+  560  cd /d/kavya/wlkn
+  561  cd ../..
+  562  cd -
+  563  where ls
+  564  c:\Program/Files\Git\usr\bin\ls.exe
+  565  C:\Program/Files\Git\usr\bin\ls.exe
+  566  cd C:\Program/Files\Git\usr\bin\ls.exe
+  567  cd Program/Files\Git\usr\bin\ls.exe
+  568  cd Program\Files/Git/usr/bin/ls.exe
+  569  where kl.txt
+  570  cd ..
+  571  ls
+  572  cd ..
+  573  cd ..
+  574  where xyz.txt
+  575  where cp
+  576  where java
+  577  cd /d
+  578  ls
+  579  where kavaya
+  580  where kavya
+  581  where xyz.txt
+  582  where kavya/
+  583  where env
+  584  env
+  585  find . -name *.pdf
+  586  cd kavya
+  587  ls
+  588  cd wlkn
+  589  ls
+  590  cd ..
+  591  find . -name *.*
+  592  find . -size +7M
+  593  echo $USERNAME
+  594  ECHO "KAVYA"
+  595  ls | grep /
+  596  ls | grep -v /
+  597  git clone htthtt
+  598  git clone https://github.com/edurekavivekh/linux-content
+  599  cd linux-content
+  600  ls
+  601  find . -name 'lixux*'
+  602  find . -name 'linux*'
+  603  cat data.csv
+  604  grep GM data.csv
+  605  grep -r GM data.csv
+  606  grep -i captain data.csv
+  607  head -2 data.csv
+  608  tail -2 data.csv
+  609  less data.csv
+  610  less data.csv
+  611  history
+  612  clear
+  613  tail 502 history
+  614  tail -2 data.csv
+  615  cd ..
+  616  tail -502 history
+  617  history
+  618  history 10
+  619  history
+  620  history 119
+  621  history 120 > linuxcommand.txt
